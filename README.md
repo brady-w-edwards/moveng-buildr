@@ -24,13 +24,15 @@ pip install -r requirements.txt
 python3 main.py
 ```
 
-## How To
+## Documentation
 
-See the docs located [here](how-to.md)
+### How To
+
+See the docs located [here](docs/how-to.md)
 
 ### Roadmap
 
-See the future plans [here](roadmap.md)
+See the future plans [here](docs/roadmap.md)
 
 ### Contrubuting
 
